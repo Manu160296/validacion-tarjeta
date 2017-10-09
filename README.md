@@ -50,4 +50,4 @@
   ***
   #### 3.-Diagrama de flujo:
 
-  ![diagrama tarjeta](diagrama tarjeta.png)
+  ![diagrama tarjeta](diagrama_tarjeta.png)
