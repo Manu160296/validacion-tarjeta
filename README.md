@@ -52,5 +52,5 @@
 
   ![diagrama tarjeta 1][1]  ![diagrama tarjeta 2][2]
 
-   [1]: diagrama_tarjeta.png
-   [2]: diagrama-tarjeta1.png
+   [1]: assets/docs/diagrama_tarjeta.png
+   [2]: assets/docs/diagrama-tarjeta1.png
