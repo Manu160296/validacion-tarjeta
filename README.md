@@ -48,6 +48,9 @@
   **fin**
 
   ***
-  #### 3.-Diagrama de flujo:
+  #### 3.-Diagramas de flujo:
 
-  ![diagrama tarjeta](diagrama_tarjeta.png)
+  ![diagrama tarjeta 1][1]  ![diagrama tarjeta 2][2]
+
+   [1]: diagrama_tarjeta.png
+   [2]: diagrama-tarjeta1.png
